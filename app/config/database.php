@@ -59,7 +59,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'todo',
 			'username'  => 'root',
-			'password'  => 'ttunawesmake',
+			'password'  => '',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
